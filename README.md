@@ -1,4 +1,4 @@
-# COVID-19 TRACKER
+# Burger Maker
 
 ## Live Link
 https://react-my-burger-bdf5b.web.app/
